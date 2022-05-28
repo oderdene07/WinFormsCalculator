@@ -1,2 +1,2 @@
 # WinFormsCalculator
-Windows Forms Calculator using Console calculator DLL
+Windows Forms Calculator with Memory using Console calculator DLL
